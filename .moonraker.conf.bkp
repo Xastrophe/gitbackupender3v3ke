@@ -76,6 +76,6 @@ subscriptions =
 	octoeverywhere
 
 [spoolman]
-server = http://192.168.56.1:7912
+server = http://spoolman.local:7912
 sync_rate = 5
 
